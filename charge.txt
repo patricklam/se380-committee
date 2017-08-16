@@ -1,0 +1,29 @@
+Hi all,
+
+At today's Software Engineering curriculum committee meeting, we discussed potential changes to the SE course on Feedback Control. I would like to invite you to join a committee to discuss these changes, as this expertise is wholly absent from the curriculum committee. Please find below an excerpt from the minutes. I anticipate that the workload will be a couple of meetings with the goal of producing an intermediate report by August and a final report by October.
+
+Please let me know whether you are interested and able to participate in this committee. I will be in Kyrgyzstan from tomorrow until July 31, so I'll be unable to contribute anything until then, and I'll always be unable to contribute substantial technical knowledge of the material, but I hope to learn something!
+
+pat
+
+0. SE 380 (Feedback Control)
+
+Making this course more relevant to SE students has been on the back burner for a long time. If the new AI Option is to include a controls course, SE 380 is the obvious target, and changes to this course for CS AI Option students would also benefit SE students. We may be able to get resources from the Dean of Engineering to facilitate course development and delivery.
+
+The SE Curriculum Committee agreed to set up a subcommittee to discuss
+changes to SE 380, with the following terms of reference:
+
+* come up with a revised SE 380 curriculum which includes CS-relevant
+labs/examples, e.g. distributed systems.
+* the new course does not need to provide requisite knowledge for ECE
+48x courses (students can take ECE 380 if needed; students who are
+interested in these courses are highly interested and will do fine in
+any case)
+* explore MATH 213 curriculum if necessary; the curriculum committe
+would like to make AMATH 250 an acceptable prerequisite (CS students
+will also take MATH 237 = Cal 3 in addition to AMATH 250, so that should be enough math knowledge).
+
+The timeline would be to produce a preliminary report by the end of
+August in time for September's Math Faculty Council, and a final
+report by October.
+

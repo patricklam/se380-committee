@@ -1,0 +1,37 @@
+Hi all,
+
+Thanks for agreeing to serve on this committee. I've made some materials
+available at the following page; I can also give you access to write to the
+page as needed.
+
+https://github.com/patricklam/se380-committee
+
+In particular, I have syllabi for SE 380 and MATH 213 (somewhat dated;
+newer ones welcome) as well as AMATH 250 (from this Spring's
+offering).  The "other-resources.txt" includes student notes from MATH
+213 as well as a link to the page for S. Keshav's book _Mathematical
+Foundations of Computer Networking_, from which you can look at the
+table of contents. I've also added some thoughts from John Thistle.
+
+It might be useful to look at the notes for SE 380 as well. Chris has
+shared them with me but I don't feel like they are mine to share.
+
+The way I see it, here are the potential directions in which we could
+go:
+
+1) modify SE 380 to ensure that it's accessible to CS students after taking AMATH 250;
+2) modify MATH 213 and make it available to CS students;
+3) stick with the status quo, after convincing ourselves that CS students can indeed
+take SE 380 with a reasonable chance of success.
+
+I'd like to schedule a meeting for next week. Please fill out this Doodle poll
+with your availability. If you are not available, please send me your thoughts
+by email.
+
+http://doodle.com/poll/mk4cmq8qbuvdq3ix
+
+I look forward to hearing from you!
+
+Patrick Lam
+PS it would also be good to have a CS student rep on this committee, e.g. a master's
+student who has recently graduated from Waterloo CS.

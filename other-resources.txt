@@ -1,0 +1,8 @@
+Student notes from MATH 213:
+
+https://www.gabrielwong.net/course_notes/
+
+S. Keshav's book, _Mathematical Foundations of Computer Networking_. Chapters 5 and 8 are most 
+relevant.
+
+http://www.informit.com/store/mathematical-foundations-of-computer-networking-9780321792105

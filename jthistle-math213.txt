@@ -1,0 +1,14 @@
+Hi Pat,
+
+The course is certainly not just differential equations -- it's differential equations plus signals-and-systems.  There's a very big difference of perspective and emphasis between those two subjects, even though you could technically define a kind of isomorphism between the two (assuming you focus on linear, time-invariant systems).  Essentially, the signals-and-systems approach to the material is well suited to design, while traditional differential equations is implicitly oriented toward analysis.
+
+In traditional differential equations, the "input," or forcing function, is assumed given, and the problem is to find the response.  The signals and systems approach is applicable when the problem is to find an input that gives rise to a response with some desirable properties.  In differential equations, aspects of the equation are largely ignored that are crucial to the existence questions that arise in the context of design.
+
+In other words, I wouldn't simply call the course "Differential Equations."  But neither would I call it "Advanced Mathematics ..."; this material is very fundamental.
+
+I would consider calling the course "signals and systems."  But it's important to make it clear that students do learn something about differential equations, as any engineer or scientist should.  The term "applied mathematics" could also be used somewhere, but "signals and systems" describes the bulk of the course.
+
+Regards,
+
+
+John 
